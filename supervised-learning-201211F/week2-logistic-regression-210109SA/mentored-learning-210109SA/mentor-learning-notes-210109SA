@@ -1,0 +1,11 @@
+Imbalance model
+99% no 1% yes
+Model already 99% accurate
+How to find 1%
+
+
+Precision vs recall
+Coefficient matrix vs area under the curve
+
+F1 - recall is just as important as precision
+

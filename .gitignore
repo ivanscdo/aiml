@@ -1,0 +1,10 @@
+# SHAPEFILES FOR BASEMAP
+**/shapefiles/*
+!**/shapefiles/README.md
+
+# IPYNB CHECKPOINT DIRECTORY
+**/.ipynb_checkpoints/*
+
+# IMAGES
+*.png
+

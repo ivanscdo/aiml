@@ -1,0 +1,15 @@
+google colab - google hosts jupyter notebook, don't need to install packages
+
+not a lot of work with visualizations and regex
+visualizations important part, but most time is spent on data cleaning, building model, viz are last part of process
+
+tableau and powerbi take care of this
+
+pandasgui released 2 weeks ago!
+
+plotly - dashboard
+plotly supports javascript
+
+ggplot
+
+gantt chart
