@@ -8,3 +8,8 @@
 # IMAGES
 *.png
 
+# .DS_STORE
+.DS_STORE
+
+# .vscode
+.vscode/*
