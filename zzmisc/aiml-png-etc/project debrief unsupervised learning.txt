@@ -1,0 +1,31 @@
+
+----------------------------------------------
+--AIML project debrief unsupervised learning--
+----------------------------------------------
+
+Eda:
+check duplicates
+    Which to remove?
+Outliers
+Reduce with log trans
+
+correlation
+Malhalanobis distance vs euclidian
+
+Elbow ~0:30
+
+Silhouette ~:34
+
+cluster ~:40
+
+Cophenetic coefficient ~:46
+
+Clustering with mahalonobis ~:48
+
+Negative? ~:50
+
+The point does is further away from it's own cluster and closer to another cluster
+
+~:52
+
+

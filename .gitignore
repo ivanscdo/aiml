@@ -16,3 +16,12 @@
 
 # IMG SYMBOLIC LINK
 img
+
+
+# GIT-LFS
+courses/intro-computer-vision-210501SA/project-computer-vision/images.npy
+courses/intro-neural-networks-210410SA/week2-artificial-neural-networks/mentored-learning/creditcard.csv
+# remote: error: See http://git.io/iEPt8g for more information.
+# remote: error: File courses/intro-computer-vision-210501SA/project-computer-vision/images.npy is 222.66 MB; this exceeds GitHub's file size limit of 100.00 MB
+# remote: error: File courses/intro-neural-networks-210410SA/week2-artificial-neural-networks/mentored-learning/creditcard.csv is 143.84 MB; this exceeds GitHub's file size limit of 100.00 MB
+# remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.

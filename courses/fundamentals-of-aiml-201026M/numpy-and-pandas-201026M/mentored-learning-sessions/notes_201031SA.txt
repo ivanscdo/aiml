@@ -1,0 +1,79 @@
+---why python?
+
+Python one of most popular programming languages, general purpose lang, web, db, gaming
+
+Chosen as aiml, can handle all parts of data science, collecting data, processing, visualization, dashboard. 
+
+Rich library and functions. Don't need low-level code. 
+
+Ex: shay prof write func to random sample 1-10. In python, just call random library. 
+
+Python has huge community
+
+Easy to deploy in production. 
+
+Support new state of the art tech (deep learning)
+
+Deep learning first developed in c++/java
+
+
+---q's
+peer: Issue with kite, uninstall anaconda, reinstall everything 
+
+
+anaconda - distributed package manager
+
+q: Default directory for Jupiter?
+
+a:Cd to directory, then start jypiter from directory. jypiter root directory based on where it's started in terminal
+
+
+---common python libraries
+numpy - handling multi-dimensional arrays
+scipy - science python; linear equations, simple funcs like average, max in array, etc
+matplotlib, seaborn - visualization, similar but seaboard easier to use
+Pandas - arrays & data frames, influenced from R
+
+
+---Common variables
+int
+float
+boolean
+string
+
+Import numpy as np
+A = np.array(range(10))
+np.random.permutation(a)
+
+String stored as array in python
+
+---python list vs numpy array
+
+py_1 = [i for i in range(10000)]
+len(py_1
+
+
+---list, tuple, dictionary 
+
+List mutable
+Tuple immutable 
+Tuples are faster and consume less memory
+Dictionary  - key/value pairs
+
+---numpy
+
+Pandas originally written for stock market, based on numpy
+numpy2 in dev
+
+Assignment
+
+Pandas series is already numpy array, supports all functions
+
+---groupby()
+
+Similar to pivot tables in excel
+
+---
+
+Will get uberdrive-2.csv
+

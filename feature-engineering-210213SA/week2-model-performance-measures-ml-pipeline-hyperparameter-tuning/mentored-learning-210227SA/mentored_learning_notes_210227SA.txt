@@ -1,5 +1,0 @@
-F1 penalizes extreme values
-Also known as the Harmonic mean (vs arithmetic mean)
-
-ROC - received operating characteristics 
-

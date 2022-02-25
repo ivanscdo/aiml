@@ -1,0 +1,175 @@
+shay, Mentor, Phd 
+
+
+---intro q's
+
+Name
+
+Role in current position
+
+Experience with ds/ml & programming language, r/python?
+
+Goal/Expectation
+
+--intros
+
+Hari Prasad
+17yrs, relationship director google
+6-7yrs programming
+
+ahsan
+Oracle dab, healthcare comp, data & cust
+Pl/sql, sql
+
+shipra
+assoc dir, data analytics team
+Applied data science 15yrs, marketing domain
+
+sashi
+sr director, 
+
+Aditya
+India raised born, us last yr
+Wireless networks, 12-13yrs
+Familiar with python/r
+
+Karan
+Microsoft 13yrs
+6yrs in xbox, manager analytics
+c#, sql
+
+saba
+java, automation scripts&frameworks
+
+
+Kevin
+Sr data analyst
+R, sql, dax
+
+Mohan
+Citi bank, lead data analyst 
+
+Ankit 
+Product manager, eBay, san jose
+
+Debora typo
+Argentina, industrial engineer US 2015
+Metallurgy, quality, process improvement, 
+Quality manager, 
+
+Raja
+Cloud data, informatica 
+
+
+Ruchi
+
+
+Z
+Gardner
+Bs/ms computer science, familiar but not used
+
+--
+
+Linear regression??
+
+Choice of words matters, sound like a professional
+
+Class focused on data science & machine learning, fundamentals for ai and deep learning
+
+Data science importance - we have a lot of data, computers getting cheap, sensors everywhere, easier to collect data, source of data. 
+
+Training data, thousands of pics of hotdog, then predict 
+
+Debora real-world example:
+Manufacture welding pipes, when welding through electric resistance welding, bend then hit and push material, weld bead, thermal cameras read temp profile, acquired images, identified profiles, then predict when tool would fail, alarm operators to repair
+
+Products out of stock on shelf, apply cameras to read shelves, 
+
+Tensor flow light (mobile) vs tensor flow 
+
+Neural linguistic programming 
+
+What problem are you trying to solve with ml?
+
+debora: Receive reports from users, text, analyze reports and find common words to create KPI, create control variables to predict issues
+
+Word cloud, if words show up more frequently, word is larger
+
+karan: xbox...?
+
+Ds not all about black box algorithms: data collection, execution, etc. 
+
+will spend time cleaning data. 
+
+eda - exploratory data analysis 
+
+Linera regresssion ex - predict price of house based on characteristics, size, location, rooms bathrooms; eda - rooms avg in area; do modeling, 
+
+q: eda, do when data missing, remove?
+a: if important, remove doesn't help to make decision, if numeric, fill avg value, if sequence...
+
+Data > decisions
+
+What is Data science, what is not?
+Not about coding, but about solution: what problem are you trying to solve?
+
+Interpret what the output means
+
+wiki: Netflix prize, team won prediction contest, but not used, took too long. 
+
+Not about accuracy, but 'fit-for-use'
+
+Not about complex algorithm, but about impact
+
+Do not train once, but continuous learning, leverage intelligence gained; learn from mistakes
+
+Contextual delivery: Tableau used heavily for data visualization!
+
+q: advantage of learning python/r or Auto ml?
+a: like ml, problem with auto ml not customized, different industry has different sales; data: datetime, holidays; 
+
+Feature engineering, brainstorm features to bring to model. 
+
+Elastic network regression?
+
+Q: ml standards for hypotheses/data gathering?
+A: learn from others, literature, google, etc
+
+Problem > hypothesis > gather data > analysis > implementation
+
+Q: which model to use?
+a: train 5 (ex), get 5 results, human decides which one to use based on needs. 
+
+Q: model always evolving?
+a: yes, up to engineer how often it is updated. Comprise complexity and business goal.
+
+Hyper parameters tuning??
+
+Q: ml engineer, too much advancement
+A: constantly advancing. Algorithm packages make implementation simple. Matters more is drawing insight. 
+
+---python resource 
+
+jupyterlab - no need for terminal and browser
+
+nteract
+
+pycharm, Spyder 
+
+Benefit of Jupiter - supports markdown for notes
+
+Kite plugin - autocomplete
+R/learnpython
+R/datascience
+
+(Resume skill - framing questions to google bugs)
+
+Notion?
+
+Essential python programming books
+
+Q: statistical knowledge?
+A: classes will be enough. A lot of math, never understand, focus on fundamentals. We're not mathematicians/computer scientists. 
+
+Q: complete course?
+a: self-paced. 
